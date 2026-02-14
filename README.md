@@ -4,37 +4,20 @@ I practiced PHP during my university time.
 
 What I practiced:
 1. Intro & basic PHP syntax
-
-Echo statements & comments
-
-HTML + PHP integration
-
-Variables & data types
-
-Operators (arithmetic, precedence, increment/decrement)
-
-Control structures (if, else, switch, logical operators)
-
-Loops (for, while, foreach)
-
-Arrays (indexed, associative, array functions)
-
-Forms ($_GET, $_POST)
-
-Input handling (isset(), empty())
-
-Radio buttons & checkboxes
-
-Functions (custom function definitions)
-
-String functions (strtoupper, etc.)
-
-Math functions (pow, pi, rand, max, etc.)
-
-Validation & sanitization (filter_input)
-
-Include files (include())
-
-Cookies (setcookie)
-
-Sessions (not fully implemented but noted)
+2. Echo statements & comments
+3. HTML + PHP integration
+4. Variables & data types
+5. Operators (arithmetic, precedence, increment/decrement)
+6. Control structures (if, else, switch, logical operators)
+7. Loops (for, while, foreach)
+8. Arrays (indexed, associative, array functions)
+9. Forms ($_GET, $_POST)
+10. Input handling (isset(), empty())
+11. Radio buttons & checkboxes
+12. Functions (custom function definitions)
+13. String functions (strtoupper, etc.)
+14. Math functions (pow, pi, rand, max, etc.)
+15. Validation & sanitization (filter_input)
+16. Include files (include())
+17. Cookies (setcookie)
+18. Sessions (not fully implemented but noted)
